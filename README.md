@@ -1,5 +1,5 @@
-                                                                                 #  About Me:
-                                                                Undergrad | Vibe - Coder | Developer | Jacked Nerd
+                                                      #  About Me:
+                                     Undergrad | Vibe - Coder | Developer | Jacked Nerd
 
 
 ## 🌐 Socials:
